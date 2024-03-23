@@ -1,0 +1,11 @@
+{
+	"name": "latex-env",
+    "image": "ghcr.io/afink/latex-devcontainer:latest",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"james-yu.latex-workshop"
+			]
+		}
+	}
+}
