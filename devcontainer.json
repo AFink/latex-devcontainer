@@ -1,6 +1,6 @@
 {
 	"name": "latex-env",
-    "image": "ghcr.io/afink/latex-devcontainer:latest",
+    "image": "ghcr.io/afink/latex-devcontainer:main",
 	"customizations": {
 		"vscode": {
 			"extensions": [
